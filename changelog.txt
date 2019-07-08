@@ -3,6 +3,7 @@
 — Increase minimal thresholds for CPU & GPU turbos
 — KSM related fixes
 — Fix resetprop not working
+— Disabled Force-DOZE
 — misc.
 
 
