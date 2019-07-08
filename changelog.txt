@@ -1,3 +1,12 @@
+*** v4.11 ***
+— Fix FDE start on rare devices
+— Increase minimal thresholds for CPU & GPU turbos
+— KSM related fixes
+— Fix resetprop not working
+— misc.
+
+
+
 *** v4.10 ***
 — AI Force-Doze fixes (not forcing to deep idle immediately)
 — AI better screen state detection
@@ -8,7 +17,6 @@
 — Smarter AI CPU turbo trigger loggic
 — Smarter AI GPU turbo trigger loggic
 — Varoius bugfixes
-— New FDE logo, credits to xLidz
 — misc.
 
 
