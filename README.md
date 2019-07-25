@@ -32,9 +32,7 @@ backup your data before flashing it!
 YOU are choosing to make these modifications, and if
 you point the finger at me for messing up your device, I will laugh at you.
 Do everything at your own risk!</code><br></p>
-<h2 align="center"><strong>DONATE:</strong><br></h2>
-<p>Unfortunately PayPal is not working in my country. You can donate me to my <a href="https://qiwi.com/p/996703379393"><strong>QIWI</strong></a>, or on my VISA credit card below. Thanks a lot in advance!
-<p align="center"><img src="https://raw.githubusercontent.com/Magisk-Modules-Repo/FDE/master/qr.png"></p>
+<h2 align="center"><strong><a href="https://www.donationalerts.com/r/feravolt"> > DONATE < </a></strong><br></h2>
 <p><i>Thanks to all guys, who contributed, helped, tested my work.. You all are wonderful, amazing, smart, super cool, beautiful people!</i><br></p>
 <h2 align="center"><a href="https://forum.xda-developers.com/showpost.php?p=79092323&postcount=517"><strong> > FAQ < </strong></a><br></h2>
 <h2 align="center"><a href="https://forum.xda-developers.com/showpost.php?p=79382552&postcount=722"><strong>Related videos</strong></a><br></h2>
