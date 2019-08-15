@@ -2,7 +2,7 @@
 — Fixed some bugs in code
 — Added vibration after FDE execution
 — Improved log text
-— Fixed CPU turbo trigerring too often
+— Fixed CPU turbo triggering too often
 — misc.
 
 
