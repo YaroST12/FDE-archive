@@ -1,10 +1,19 @@
+*** v5.1 ***
+— Fixed some bugs in code
+— Added vibration after FDE execution
+— Improved log text
+— Fixed CPU turbo trigerring too often
+— misc.
+
+
+
 *** v5.0 ***
 — Completely rewritten from scratches
 — Busybox is not needed anymore
 — Compiled with latest CLANG compiler with max optimization
 — 8x faster execution speed
 — Updated & revised all tweaks, removed unstable ones
-- Added some new tweaks & fixed some old ones
+— Added some new tweaks & fixed some old ones
 — More smarter values calculation formulas
 — Enhanced AI
 — misc.
