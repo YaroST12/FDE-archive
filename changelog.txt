@@ -6,7 +6,7 @@
 — Updated & revised all tweaks, removed unstable ones
 - Added some new tweaks & fixed some old ones
 — More smarter values calculation formulas
-— Enchanced AI
+— Enhanced AI
 — misc.
 
 
@@ -24,7 +24,7 @@
 — Smarter Adreno freqs optimization
 — More unneeded kernel debugging disabled
 — AI framebuffer optimization
-— Enchanced AI processes optimization
+— Enhanced AI processes optimization
 — A lot of AI logic improvements
 — Smarter VM tweaks
 — Fixed kernel FS tweaks
@@ -48,7 +48,7 @@
 — AI better screen state detection
 — Kernel tweaks updated
 — Fixed magisk.log cleanup
-— Enchanced AI processes optimization
+— Enhanced AI processes optimization
 — AI GPU turbo fixes for Adreno GPUs
 — Smarter AI CPU turbo trigger loggic
 — Smarter AI GPU turbo trigger loggic
