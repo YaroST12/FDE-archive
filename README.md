@@ -22,7 +22,7 @@
 <p align="center"><i>WARNING! Don't use any other All-in-One tweakers or things may get much worse! I warned you!</i><br></p>
 <p><b>- Make a backup just in case something goes wrong.</b></p>
 <p><b>- Download latest FDE .zip and install it via recovery OR Magisk manager.</b></p>
-<p><b>- After OS boot, if FDE worked OK you will get a <i>toast alert</i>, double vibration and a log file <i>/sdcard/fde.txt</i> will be created.</b><br></p>
+<p><b>- After OS boot, if FDE worked OK you will get a <i>toast alert</i>, double vibration and a log file <i>/sdcard/Android/fde.txt</i> will be created.</b><br></p>
 <p>When installing new version of FDE - previous version will be automatically removed. For showing toast alerts small app called "ShowMessage" will be automatically installed - it doesn't use any OS permissions and if you don't like FDE toast alerts you can uninstall this app.<br></p>
 <h2 align="center"><strong>Disclaimer:</strong></h3>
 <p><code>Your warranty is now void.
