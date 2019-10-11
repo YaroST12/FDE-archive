@@ -1,8 +1,24 @@
+*** v6.2 ***
+— [APP] UI bug-fixes
+— [APP] Updated all dependency libs
+— [APP] Vulkan UI rendering option for Android 10
+— [APP] Experimental build.prop tweaks toggle
+— Improved Force Doze mode
+— Tuned VM tweaks
+— Fixed time appearance in log
+— I/O tweaks fixes
+— AI dynamic VM tune-up
+— Improved execution speed
+— Optimized code
+— misc.
+
+
+
 *** v6.1 ***
 — [APP] Auto dark theme support for Android 9+
 — [APP] Material Design UI
 — [APP] UI bugfixes
-— [APP] Updated all dependent liraries
+— [APP] Updated all dependent libraries
 — [APP] Better code optimization
 — Improved AI extra power-saving mode.
 — Improved AI extra performance mode.
@@ -18,11 +34,11 @@
 — [APP] Updated dependency libs
 — [APP] "Rate" button
 — [APP] Moved fully to java 1.8
-— [APP] 9 sec delay aftter OS boot
+— [APP] 9 sec delay after OS boot
 — [APP] New AI extra power-saving option
 — Whole code revised
 — Improved execution speed & decreased RAM usage
-— Fixed potentional segmentation bugs.
+— Fixed potential segmentation bugs.
 — Enhanced security
 — Enhanced AI GPU turbo logic
 — Enhanced AI "performance" mode behavior
