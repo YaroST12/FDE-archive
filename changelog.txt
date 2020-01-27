@@ -1,3 +1,46 @@
+*** v8.0 ***
+— [APP] Updated all dependency libs
+— [APP] New icon
+— [APP] UI updates & bugfixes
+— [APP] Fix security related issues
+— [APP] Android TV related fixes
+— [APP] Removed ART cache optimization toggle (option moved to AI chat)
+— [APP] Added Qcomm board default settings apply toggle
+— [APP] Added constant heavy games boost toggle
+— [APP] Improved ROOT access observation
+— [APP] Enhanced settings page
+— [APP] Beautified settings info
+— Whole code revised & optimized
+— Added micro-busybox for FDE.AI needs only (max optimization & speed)
+— Removed potentially bad tweaks (causing device to not wake up)
+— Enhanced machine learning logic (now takes CPU turbo state in account)
+— Enhanced machine learning rates (speed)
+— Extended machine learning tunables
+— Extended AI dynamic VM tuner logic
+— Improved CPU turbo logic
+— Improved first run logic
+— Tuned F2FS tweaks
+— Tuned EXT4 FS tweaks
+— Tuned Adreno GPU tweaks
+— Added new machine learning 'neuron' for dynamic VM tuner
+— Updated VM tweaks
+— Updated network tweaks
+— Tuned CPU governor tweaks
+— Improved device info gathering
+— More tweaks are calculated by formulas depending on device's specs
+— AI now detects some known heavy games & boost turbos immediately while playing (optional for apk | OFF by default)
+— Removed auto I/O scheduler set
+— Updated Niko's build.prop tweaks
+— Restcricted FDE.AI APK background activity (service will never die tho)
+— ART cache optimization moved to AI talker module
+— AI talker supports hashtags (#) (see AI info dialog)
+— AI talker can joke
+— AI talker got built-in commands/keywords info (help)
+— Various bugfixes
+— misc.
+
+
+
 *** v7.3 ***
 — [APP] Updated all dependency libs
 — [APP] MD2 design
