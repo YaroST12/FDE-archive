@@ -13,5 +13,6 @@
 — More tweaks are calculated by formulas depending on device's specs
 — Removed auto I/O scheduler set
 — Various bugfixes
+— AI removed
 — misc.
 
