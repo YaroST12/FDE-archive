@@ -1,4 +1,4 @@
-<i>Almost all applied parameters are checked if they're supported first, then calculated by formulas and/or by AI, depending on your device's specs. Some features may or may not be applied - depends on software/hardware of your device. Also some parameters may change in time depending on your device usage scenario per AI desicions.</i><br>
+<i>Almost all applied parameters are checked if they're supported first, then calculated by formulas depending on your device's specs. Some features may or may not be applied - depends on software/hardware of your device.</i><br>
 
 <strong>Features:</strong>
 
@@ -83,10 +83,4 @@
 <code>- Refreshing file system on all partitions (fstrim)</code><br>
 <code>- SafetyNET patch</code><br>
 <code>- zRAM speed optimization</code><br>
-<code>- CPU turbo (AI + machine learning)</code><br>
-<code>- GPU turbo (AI + machine learning)</code><br>
-<code>- Frame-buffer boost (AI)</code><br>
-<code>- Dynamic VM tuner (AI)</code><br>
-<code>- Force Doze (AI)</code><br>
-<code>- Thermal controller (AI)</code><br>
 <code>- misc...</code><br>

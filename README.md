@@ -13,9 +13,6 @@
 <code>- 4.1 and newer</code><br></p>
 <h2 align="center"><strong>Features</strong></h3>
 <p>FDE.AI - <b>very universal</b> Android OS/Kernel optimizer, compatible with all Android devices. Almost all applied parameters are checked if they're supported first, then calculated by formulas depending on your device's specs, so that in the end every device is configured <b>individually</b> and got it's own best values.</p><p>New <i>unique</i> method of execution - all required FDE.AI components are loaded directly to RAM and executed from there. This means <b>high speed</b> (the worst RAM will have at least ~700MB/s of I/O speed), <b>no power consumption</b> (no NAND memory I/O occurs) and <b>security</b> (system partitions are in read-only state). Universal installer automatically detects what ROOT-method you use and how to autostart. Finally, FDE.AI is not only about optimization. It's also about security and <i>feature-enabling</i>. See full features list <a href="https://github.com/Magisk-Modules-Repo/FDE/blob/master/FEATURES.md">> HERE <</a></p>
-<h2 align="center"><strong>Artificial Intelligence</strong></h3>
-<p align="center"><img src="https://raw.githubusercontent.com/Magisk-Modules-Repo/FDE/master/ai.png"></p>
-<p>As you may notice from the name "FDE.AI" - can tell us that it has a <b>real</b> <code>AI inside</code>. AI will learn how do you use your device, check your current usage scenario and adapt some system parameters in real time (gain performance or powersaving & misc.) to give you best usage experience. No personal data is collected, analyzed or sent anywhere. Details <a href="https://forum.xda-developers.com/showpost.php?p=79414180&postcount=743"><b>HERE</b></a>.<br></p>
 <h2 align="center"><strong>Installation:</strong></h3>
 <p align="center"><i>WARNING! Don't use any other All-in-One tweakers or things may get much worse! I warned you!</i><br></p>
 <p><b>- Make a backup just in case something goes wrong.</b></p>
@@ -35,6 +32,7 @@ Do everything at your own risk!</code><br></p>
 <p><i>Thanks to all guys, who contributed, helped, tested my work.. You all are wonderful, amazing, smart, super cool, beautiful people!</i><br></p>
 <h2 align="center"><a href="https://forum.xda-developers.com/showpost.php?p=79092323&postcount=517"><strong> > FAQ < </strong></a><br></h2>
 <h2 align="center"><a href="https://forum.xda-developers.com/showpost.php?p=79382552&postcount=722"><strong>Related videos</strong></a><br></h2>
+<p>Source code - https://github.com/feravolt/FDE-sc</p>
 
 [![HitCount](http://hits.dwyl.io/Magisk-Modules-Repo/FDE.svg)](http://hits.dwyl.io/Magisk-Modules-Repo/FDE)
 
