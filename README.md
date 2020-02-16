@@ -1,5 +1,5 @@
 <h1 align="center">FDE.AI</h1>
-<h3 align="center"><strong>Universal Android OS/Kernel optimizer (AI)</strong></h3>
+<h3 align="center"><strong>Universal Android OS/Kernel optimizer</strong></h3>
 <p align="center"><img src="https://raw.githubusercontent.com/Magisk-Modules-Repo/FDE/master/screenshot.png"></p>
 <p align="center"><img src="https://img.shields.io/badge/version-v8.1-blueviolet.svg"></p>
 <p align="center"><a href="https://forum.xda-developers.com/android/software-hacking/beta-feradroid-engine-v0-19-ultimate-t3284421"><img src="https://img.shields.io/badge/Forum%20thread%20on-XDA-orange.svg"></a>  <a href="https://4pda.ru/forum/index.php?showtopic=716174"><img src="https://img.shields.io/badge/Forum%20thread%20on-4PDA-9cf.svg"></a>  <a href="https://t.me/feralab_xda"><img src="https://img.shields.io/badge/Support%20group%20in-Telegram-informational.svg"></a>  <a href="https://www.facebook.com/groups/feralab/"><img src="https://img.shields.io/badge/Group%20on-Facebook-blue.svg"></a><br></p>
